@@ -1,4 +1,4 @@
-Sales Cohort Analysis (PostgreSQL)
+Cohort & Retention Analysis (PostgreSQL Project)
 
 * Description
 
