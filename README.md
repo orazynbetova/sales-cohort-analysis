@@ -63,4 +63,4 @@ Practice SQL for product analytics:
 
  * Author
 
-Aidana Orazynbetova
+Made by Aidana Orazynbetova
