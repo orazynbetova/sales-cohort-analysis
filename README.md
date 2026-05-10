@@ -44,10 +44,10 @@ Example Output
 
 
 
- How to Run
+How to run
 
-1. Run schema.sql
-2. Run data.sql
+1. Create tables using schema.sql
+2. Insert data using data.sql
 3. Run analysis.sql
 
 
